@@ -1,0 +1,4 @@
+This is a simple app which checks for correct bracket usage in a given file.
+Input : Enter the file to be checked for bracket matching
+Output : List of brackets scanned and unmatched opening or closing brackets, if any. Ignores brackets inside C++ style comments beginning with //, /* */, and brackets inside strings.
+
